@@ -4,6 +4,4 @@
 
 ## Made with "Love", "Coffee", "Tea", "Beer"
 
-At the same time I had and still have headache
-
 [![asd](https://visitcount.itsvg.in/api?id=0xb4dc0d3x&icon=0&color=4)](https://visitcount.itsvg.in)
