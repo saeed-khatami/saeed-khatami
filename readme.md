@@ -2,19 +2,19 @@
 
 👋 Greetings! I'm Saeed, an intrepid explorer in the realm of technology. My GitHub profile is a mosaic of my passions and a testament to my unquenchable thirst for knowledge. Let's embark on a journey through my diverse interests:
 
-🐧 **[Linux](https://github.com/saeed-khatami/linux)**: Linux, the open-source juggernaut, has been my companion on this technological odyssey. From mastering various distributions to configuring servers, my Linux journey is one of constant discovery, where the command line feels like home.
+🐧 [**Linux**](https://github.com/saeed-khatami/linux): Linux, the open-source juggernaut, has been my companion on this technological odyssey. From mastering various distributions to configuring servers, my Linux journey is one of constant discovery, where the command line feels like home.
 
 💻 **Low-Level Programming**: The allure of delving into the intricate dance between software and hardware has always fascinated me. Low-level programming is my canvas, where I craft elegant solutions that harness the raw power of CPUs and memory.
 
-🔬 **[Kernel](https://github.com/saeed-khatami/Kernel)**: As I traverse the layers of operating systems, the kernel beckons. I've delved deep into its core, unraveling its mysteries, understanding its role in managing resources, and appreciating its subtle nuances.
+🔬 [**Kernel**](https://github.com/saeed-khatami/Kernel): As I traverse the layers of operating systems, the kernel beckons. I've delved deep into its core, unraveling its mysteries, understanding its role in managing resources, and appreciating its subtle nuances.
 
 🔐 **ReadAndWriteMemory**: The art of reading and writing memory is more than just a technical endeavor; it's a dance of privilege and responsibility. My exploration into this realm extends to memory protection mechanisms and security.
 
 🕵️‍♂️ **AntiCheatDev**: Upholding the integrity of online gaming is a mission I hold dear. My foray into anti-cheat development isn't just about thwarting cheaters; it's about creating an ecosystem where fair play thrives and genuine skills shine.
 
-💣 **[CheatDev](https://github.com/saeed-khatami/Dota2Cheat)**: On the flip side, I've ventured into cheat development, not as a disruptor but as a keen observer. Understanding the methodologies employed by cheats provides invaluable insights into the ongoing battle against them.
+💣 [**CheatDev**](https://github.com/saeed-khatami/Dota2Cheat): On the flip side, I've ventured into cheat development, not as a disruptor but as a keen observer. Understanding the methodologies employed by cheats provides invaluable insights into the ongoing battle against them.
 
-🎮 **[GameDev](https://github.com/saeed-khatami/voozi)**: Crafting immersive experiences is an art form I cherish. Game development lets me weave stories, design worlds, and create interactive narratives that captivate players and fuel their imagination.
+🎮 [**GameDev**](https://github.com/saeed-khatami/voozi): Crafting immersive experiences is an art form I cherish. Game development lets me weave stories, design worlds, and create interactive narratives that captivate players and fuel their imagination.
 
 🌐 **Network**: The labyrinthine network of interconnected devices and protocols captivates my attention. Whether it's dissecting packet flows, designing secure networks, or optimizing routing, I thrive on understanding the intricacies of the digital web.
 
