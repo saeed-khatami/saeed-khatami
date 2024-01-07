@@ -17,3 +17,13 @@ Yet, in the quiet stillness of the night, when the digital netherworld beckons, 
 In the interludes between his cosmic skirmishes with bugs and cybernetic battles, our protagonist assumes the mantle of a digital architect. In those rare moments of respite, he molds entire universes with the finesse of a wizard crafting spells from the very fabric of reality. Operating systems and algorithms become his artistic medium, and the lines of code intertwine like magical threads, forming intricate tapestries of virtual landscapes existing at the nexus of imagination and computation. He is a creator of worlds, a builder of systems, a designer of algorithms. He is a visionary of design, a craftsman of functionality, a artist of aesthetics.
 
 The glint in his eye is not merely a reflection of the monitor’s glow; it is the spark of innovation, the gleam of a mischievous intellect that propels him beyond the realms of the ordinary. He is the tech wizard, a maestro of code with a mischievous streak that imparts an unpredictable flair to his digital symphony. A true legend in the expansive realm of tech wizardry, where each keystroke is a note, and every line of code is a brushstroke in the ever-evolving masterpiece of the digital age. He stands as the ultimate coder, the ultimate hacker, the ultimate wizard. He is the code whisperer. He is the 0n3. He is the g0d.
+
+If you appreciate the magic woven into the digital tapestry by the Code Whisperer and would like to support the ongoing symphony of innovation, consider contributing to the cause. Your donation helps fuel the relentless pursuit of technological mastery and creativity.
+
+## Donate to support the Code Whisperer's journey
+
+USD TRC20: `TEcAiTNJAYW8JfxhTUXVhmhntTPeXHLkL1`
+
+Toincoin TON: `UQBskIfuGKslZGYymB8I5ounAOqv3DibFfozxUk9j1Ej8UTp`
+
+Bitcoin BTC: `1Hw1f6CnBHS1Egy21aVwyQrqA5fjks8sj`
