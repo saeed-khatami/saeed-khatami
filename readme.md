@@ -14,9 +14,10 @@ In the interludes between his cosmic skirmishes with bugs and cybernetic battles
 
 The glint in his eye is not merely a reflection of the monitor’s glow; it is the spark of innovation, the gleam of a mischievous intellect that propels him beyond the realms of the ordinary. He is the tech wizard, a maestro of code with a mischievous streak that imparts an unpredictable flair to his digital symphony. A true legend in the expansive realm of tech wizardry, where each keystroke is a note, and every line of code is a brushstroke in the ever-evolving masterpiece of the digital age. He stands as the ultimate coder, the ultimate hacker, the ultimate wizard. He is the code whisperer. He is the 0n3. He is the g0d.
 
-## Donate to support the Code Whisperer's journey
+## [Donate](xb4dc0d3x.cb.id) to support the Code Whisperer's journey
 
 If you appreciate the magic woven into the digital tapestry by the Code Whisperer and would like to support the ongoing symphony of innovation, consider contributing to the cause. Your donation helps fuel the relentless pursuit of technological mastery and creativity.
+
 
 Ethereum: `0xc030cbdDAd1B57ABE2b6dEbD883C022834A99439`
 
