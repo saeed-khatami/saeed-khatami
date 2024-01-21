@@ -18,8 +18,12 @@ The glint in his eye is not merely a reflection of the monitor’s glow; it is t
 
 If you appreciate the magic woven into the digital tapestry by the Code Whisperer and would like to support the ongoing symphony of innovation, consider contributing to the cause. Your donation helps fuel the relentless pursuit of technological mastery and creativity.
 
-USD TRC20: `TEcAiTNJAYW8JfxhTUXVhmhntTPeXHLkL1`
+Ethereum: `0xc030cbdDAd1B57ABE2b6dEbD883C022834A99439`
 
-Toincoin TON: `UQBskIfuGKslZGYymB8I5ounAOqv3DibFfozxUk9j1Ej8UTp`
+Solana: `3kUYEQf8QftQU1o8t7Asga3fR6tzaBKR5hkrKtqT2Edm`
 
-Bitcoin BTC: `1Hw1f6CnBHS1Egy21aVwyQrqA5fjks8sj`
+Bitcoin: `bc1qkrsqam2xjzqp2kdurs9h2n5g50akqw2u0kzfxt`
+
+Dogecoin: `DFFS13joHZfLng5Ufs8EweK5YKM99aNRGz`
+
+Lightcoin: `ltc1q442kfktnaem36wts5yg07lj7fm5h7tkywzvee2`
